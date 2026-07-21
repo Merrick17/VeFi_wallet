@@ -13,7 +13,7 @@
     "@react-navigation/native": "^6.0.1",
     "@react-navigation/native-stack": "^6.0.2",
     "react": "17.0.1",
-    "react-native": "0.64.2",
+    "react-native": "0.86.0",
     "react-native-app-intro-slider": "^4.0.4",
     "react-native-bip39": "^2.3.0",
     "react-native-randombytes": "^3.5.3",
